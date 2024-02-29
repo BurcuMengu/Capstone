@@ -1,0 +1,17 @@
+.background { 
+    background: linear-gradient(200deg, #5E1675, #EE4266, #FFD23F);
+}
+
+.container {
+    max-width: 100%;
+}
+
+.text-head {
+    font-size: 50px;
+    font-weight: 900;
+}
+
+.footer {
+    background: linear-gradient(200deg, #FFD23F, #EE4266, #5E1675);
+    max-width: 100%;
+}
